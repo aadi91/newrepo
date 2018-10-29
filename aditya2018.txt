@@ -1,0 +1,7 @@
+git
+maven
+jenkins
+docker
+ansible 
+kubernetes
+
